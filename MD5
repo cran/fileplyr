@@ -1,0 +1,9 @@
+e8b18f18a3dc652c450427f956ffd14c *DESCRIPTION
+392828ae70b02022ba55751edfd7c446 *NAMESPACE
+7554f0594f2d6d548716b03421fd6690 *R/fileply.R
+64d1cbd856ebddc7d0cd6b3db1df1216 *R/fileplyr.R
+90651fbc913fbaa47ae54276f588a4f7 *R/to_tibble.R
+883a113f5fa028c37346976bdd64c011 *README.md
+aa2ad65744fdf41c5f2fab9a9d560c29 *man/fileply.Rd
+f8368e4fcfe19997293c766997a1e4d4 *man/fileplyr-package.Rd
+b3451fb6edba638c051e5013bcdbbac9 *man/to_tibble.Rd
